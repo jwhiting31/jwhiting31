@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jwhiting31
 - 👀 I’m interested in learning how to Code and expand my knowledge
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on simple projects?
 - 📫 How to reach me email Jwhiting31@gmail.com
 
 <!---
